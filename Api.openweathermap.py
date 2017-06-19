@@ -1,4 +1,5 @@
-#JUAN GABRIEL
+#JUAN GABRIEL HINCAPIE ESCOBAR-164008
+#SANTIAGO GRUESO-164015
 import requests
 city = raw_input("ingrese el nombre de la ciudad:")
 url="http://api.openweathermap.org/data/2.5/weather?q=" +city+ "&appid=ec36addbebf58a73a09110a58df3a4d0"
